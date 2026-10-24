@@ -166,6 +166,11 @@ Systémově je třeba některé položky číst ve spojení s § 145: např. př
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 5948/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/51BA76E4527F7933C12582C5003144F3?openDocument) — 24. 4. 2018, kat. A
+  > „Ve věcech služebního poměru vojáků z povolání vyplývajících z porušení práva na rovné zacházení nebo zákazu diskriminace, je-li vojákem uplatněn jiný nárok než náhrada škody (majetkové újmy), je podle ustanovení § 10 odst. 1 antidiskriminačního zákona dána pravomoc soudu"
+
 #### Taxativní výčet věcí rozhodovaných v řízení (odst. 1)
 
 Odstavec 1 vymezuje pozitivně věci, o nichž se rozhoduje ve formálním řízení ve věcech služebního poměru (rozhodnutím s odvoláním). Jde o rozhodnutí se zásadním dopadem na trvání služebního poměru (změna doby trvání, přerušení, propuštění, odnětí hodnosti, setrvání po dosažení důchodového věku podle § 19 odst. 2), o majetkové vztahy mezi vojákem a státem (náhrada škody, vrácení náborového či kvalifikačního příspěvku, úhrada za zvýšení kvalifikace, bezdůvodné obohacení, náhrada nákladů za výstroj, peněžní výpomoc, peněžitý příspěvek, kvalifikační příspěvek), o sporné nároky (služební příspěvek, vykázaná doba služby pro výsluhové náležitosti a sociální zabezpečení, snížení či odnětí služebního platu podle § 68k odst. 5), o uložení kázeňského trestu a o vyslání ke zvýšení nebo prohloubení kvalifikace. Věci podle § 145a odst. 1 se rozhodují personálním rozkazem, který je zvláštní formou rozhodnutí.

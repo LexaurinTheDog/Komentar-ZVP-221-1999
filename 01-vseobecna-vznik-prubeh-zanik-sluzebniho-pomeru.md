@@ -79,6 +79,11 @@ ZVP je samostatným a komplexním předpisem pro služební poměr vojáků z po
 
 **Zákaz postihu (odst. 6).** Služební orgány nesmějí vojáka postihovat ani znevýhodňovat za to, že se zákonným způsobem domáhá svých práv (zákaz viktimizace). Ochrana se vztahuje na zákonné uplatňování práv — podání žádosti, stížnosti, odvolání, žaloby.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 5948/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/51BA76E4527F7933C12582C5003144F3?openDocument) — 24. 4. 2018, kat. A
+  > „Ve věcech služebního poměru vojáků z povolání vyplývajících z porušení práva na rovné zacházení nebo zákazu diskriminace, je-li vojákem uplatněn jiný nárok než náhrada škody (majetkové újmy), je podle ustanovení § 10 odst. 1 antidiskriminačního zákona dána pravomoc soudu"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Vojákyně se po návratu z rodičovské dovolené opakovaně nedostane do kurzu, který je podmínkou pro služební zařazení s vyšší hodností. Do kurzu jsou vysíláni vojáci s kratší praxí a horším služebním hodnocením. Nadřízený jí ústně sdělí, že „s malými dětmi by kurz stejně nezvládla“. Po podání stížnosti je převelena na méně atraktivní úkoly.

@@ -1,0 +1,11 @@
+# Judikatura citovaná v komentáři (ZVP-221-1999)
+
+Tato složka obsahuje všechna rozhodnutí citovaná v komentáři — 1 rozhodnutí, 2 citací u 2 z 215 komentovaných ustanovení.
+
+**Metoda:** Judikatura pochází výhradně z místních zdrojů (lokální kopie rozhodnutí NS, ÚS a NSS). U rozhodnutí Nejvyššího soudu jsou uvedeny kurátorské právní věty (kategorie A/B — publikováno ve Sbírce soudních rozhodnutí a stanovisek). U rozhodnutí ÚS a NSS jsou citovány doslovné pasáže z odůvodnění. Platí zásada: raději neuvést nic, než uvést nepřiléhavé nebo nejisté — ustanovení bez vhodné judikatury v místních zdrojích proto žádnou citaci nemají.
+
+| Soud | Sp. zn. | Datum | Kat./typ | Citováno u | Soubor |
+|---|---|---|---|---|---|
+| NS | [21 Cdo 5948/2017](NS-21-Cdo-5948-2017.md) | 24. 4. 2018 | A | § 2; § 145 | [NS-21-Cdo-5948-2017.md](NS-21-Cdo-5948-2017.md) |
+
+**Ustanovení bez judikatury z místních zdrojů (213):** § 1, § 2a, § 3, § 4, § 4a, § 5, § 5a, § 6, § 6a, § 7, § 7a, § 8, § 9, § 10, § 10a, § 11, § 12, § 13, § 13a, § 14, § 14a, § 15, § 16, § 17, § 18, § 19, § 20, § 21, § 21a, § 22, § 23, § 24, § 25, § 26, § 27, § 28, § 29, § 30, § 31, § 31a, § 31b, § 31c, § 32, § 33, § 34, § 35, § 37, § 38, § 39, § 40, § 40a, § 41, § 41a, § 42, § 43, § 44, § 45, § 46, § 47, § 48, § 49, § 50, § 51, § 51a, § 52, § 53, § 54, § 55, § 56, § 57, § 58, § 59, § 59a, § 60, § 61, § 61a, § 62, § 63, § 64, § 65, § 66, § 67, § 68, § 68a, § 68b, § 68c, § 68d, § 68e, § 68f, § 68g, § 68h, § 68i, § 68j, § 68k, § 68l, § 68m, § 68n, § 68o, § 68p, § 68q, § 68r, § 69, § 70, § 70a, § 70b, § 70c, § 71, § 72, § 73, § 74, § 75, § 76, § 77, § 79, § 80, § 81, § 82, § 83, § 84, § 85, § 86, § 87, § 87a, § 88, § 88a, § 88b, § 88c, § 89, § 90, § 91, § 92, § 93, § 94, § 95, § 96, § 97, § 97a, § 98, § 99, § 100, § 101, § 102, § 103, § 104, § 105, § 106, § 107, § 108, § 109, § 110, § 111, § 112, § 113, § 114, § 115, § 116, § 117, § 118, § 119, § 120, § 121, § 122, § 123, § 124, § 125, § 126, § 127, § 128, § 129, § 130, § 130a, § 131, § 132, § 133, § 134, § 135, § 136, § 137, § 137a, § 138, § 139, § 140, § 141, § 142, § 143, § 144, § 145a, § 146, § 147, § 148, § 149, § 150, § 150b, § 151, § 152, § 152a, § 153, § 159, § 160, § 161, § 162, § 163, § 163a, § 163b, § 163c, § 163d, § 164, § 165, § 165a, § 166, § 166a, § 167, § 168
